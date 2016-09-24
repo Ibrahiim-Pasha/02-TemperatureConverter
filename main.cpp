@@ -1,9 +1,9 @@
 ﻿/*************************************************
-			02 Temperature converter
+		02 Temperature converter
 	- This program for : Temperature convert.
 	- Author : Ibrahim Mohamed Abdul-Meged.
-			 : facebook.com/Ibrahiim.Pasha
-			 : github.com/Ibrahiim-Pasha
+		 : facebook.com/Ibrahiim.Pasha
+		 : github.com/Ibrahiim-Pasha
 	- Date : 23/9/2016 - 9:04 PM
 
 *************************************************/
